@@ -15,7 +15,7 @@ To import RTEditor to your game, simply go to ``` Tools > Import Local Package `
 ### Use
 1. Open ```obj_RTEditor``` and in the Create event and initialize the variables you want to set (Ex: ```global.player_x```). 
 2. Add the name of the variable as a string in ```RTE_VARS``` (Ex: ```RTE_VARS = ["player_x"]```).
-3. Now change the variable in the object/script you want to test to the globall variable you initialized (Ex: ```global.player_x```).
+3. Now change the variable in the object/script you want to test to the global variable you initialized (Ex: ```global.player_x```).
 4. Next, simply drag ```obj_RTEditor``` into the room you are working in and run your game!
 
 ### Controls
