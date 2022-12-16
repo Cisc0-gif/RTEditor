@@ -6,6 +6,7 @@ RTEditor is a UI tool that allows developers to set variables during Runtime, ma
 * Displays current mouse position (x, y)
 * Change any variable of any data type during Runtime
 * Set fullscreen and restart game with a key press
+* Draggable window that stays on screen if camera moves
 
 ## How to use
 
@@ -24,6 +25,7 @@ To import RTEditor to your game, simply go to ``` Tools > Import Local Package `
 * ```DEL``` to hide/show RTEditor (won't take input while hidden)
 * ```PAGE DOWN``` to set fullscreen
 * ```PAGE UP``` to restart game
+* Click and hold UI with ```LMB``` to drag it across screen
 
 ## Authors
 
