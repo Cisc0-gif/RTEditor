@@ -1,4 +1,4 @@
-# RTEditor (a tool for GameMaker)
+# RTEditor v1.1 (a tool for GameMaker)
 
 RTEditor is a UI tool that allows developers to set variables during Runtime, making minor adjustments on the fly instead of the generally inefficient GameMaker process of write code, compile, repeat. With greater flexibility, developers can move on-screen UI elements around, change object sprite size, test values, and much more with this tool every GameMaker developer should have in their back pocket.
 
